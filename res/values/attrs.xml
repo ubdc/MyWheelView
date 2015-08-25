@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelView">
+        <attr name="selectedColor" format="color|reference" />
+        <attr name="unSelectedColor" format="color|reference" />
+        <attr name="android:textSize" />
+        <attr name="markerLineColor" format="color|reference" />
+        <attr name="marginItemCount" format="integer" />
+        <attr name="markerLineHeight" format="dimension" />
+    </declare-styleable>
+</resources>
